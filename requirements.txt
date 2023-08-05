@@ -44,7 +44,6 @@ packaging==21.3
 pbr==5.8.1
 Pillow==9.1.0
 platformdirs==2.5.0
-psycopg2==2.9.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAutoGUI==0.9.53
